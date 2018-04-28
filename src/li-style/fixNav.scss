@@ -1,0 +1,13 @@
+.fixNav{
+    height:100px;
+    background-color:#FFE4E1;
+    ul{
+        display:flex;
+        justify-content: space-between;
+        li{
+            flex:1;
+            text-align: center;
+            line-height:100px;
+        }
+    }
+}
